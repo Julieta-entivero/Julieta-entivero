@@ -47,10 +47,10 @@ Actualmente en búsqueda activa de oportunidades como QA Automation Engineer.
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Julieta-entivero&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julieta-entivero&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
+- **Lenguajes principales:** Java, JavaScript, HTML, CSS
+- **Frameworks de testing:** Selenium, Playwright, Cypress
+- **Tests automatizados:** 80+ test cases across 6 projects
+- **Enfoque:** E2E testing, API testing, Page Object Model
 
 ---
 
